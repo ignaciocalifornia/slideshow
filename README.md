@@ -3,7 +3,7 @@
 A slide show using react, redux, es6, node v7 and webpack.
 
 
-###Installation:
+##Installation:
 
 (Assuming that you have `git`, `node` v7 and `yarn`)
 
@@ -15,7 +15,7 @@ Install npm modules:
 
     yarn
 
-###Start:
+##Start:
 
 Start the server:
 

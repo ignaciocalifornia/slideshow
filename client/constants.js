@@ -1,0 +1,8 @@
+export const GET_IMAGES_REQUEST = 'GET_IMAGES_REQUEST';
+export const GET_IMAGES_SUCCESS = 'GET_IMAGES_SUCCESS';
+export const GET_IMAGES_ERROR = 'GET_IMAGES_ERROR';
+
+export const CHANGE_SLIDE = 'CHANGE_SLIDE';
+export const SORT_IMAGES = 'SORT_IMAGES';
+
+

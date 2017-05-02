@@ -1,0 +1,58 @@
+.main {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* https://css-tricks.com/perfect-full-page-background-image/ */
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
+    background-size: cover;
+}
+
+.messages {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 300px;
+}
+
+.prevButton {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 50px;
+    width: 50px;
+}
+
+.nextButton {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    height: 50px;
+    width: 50px;
+}
+
+.sortButton1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 50px;
+    width: 50px;
+}
+
+.sortButton2 {
+    position: absolute;
+    top: 0;
+    right: 50px;
+    height: 50px;
+    width: 50px;
+}
